@@ -1,3 +1,1 @@
-
-
-[![Kangguangli's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangguangli)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=tokyonight)
+![Kangguangli's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangguangli&theme=monokai&show_icons=true)
